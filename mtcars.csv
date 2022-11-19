@@ -1,0 +1,5 @@
+Manufacturer,,Model,Type,Price,Mpg.city,Hornspower
+honda,,integer,small,"2,00,000",25,30
+bmw,,lower,lower,"1,00,000",18,20
+audi,,midilize,midilize,"50,00,000",25,35
+swift,,upper,,"5,00,000",30,45
